@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "427399165510",
+    "project_id": "flash-chat-dfcad",
+    "storage_bucket": "flash-chat-dfcad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427399165510:android:ed4fd7bd1a402389893c47",
+        "android_client_info": {
+          "package_name": "com.atam.flash_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427399165510-e6me9sd1qaoev6sbmtpok9a5jm6oovh5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC8_j2pHJFOswRSOH8UFfXQ2Fk2EObwWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "427399165510-e6me9sd1qaoev6sbmtpok9a5jm6oovh5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
